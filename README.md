@@ -1,2 +1,3 @@
-# benchmark
-Hosting the instructions and utilities required to run and submit to the IO500
+# old benchmark
+Achive of instructions and scripts required to run and submit
+the original IO500 benchmark (pre IOR/mdtest integrated application).
